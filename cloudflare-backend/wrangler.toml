@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "demo-scanner-db"
-database_id = "06f0da64-181f-440a-84c1-f25f620ee08b"
+database_id = "5c94874e-f84e-434f-97a4-ee2dbb4d6698"
 
 [vars]
 JWT_SECRET = "demo_scanner_secret_token_123"
